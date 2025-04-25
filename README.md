@@ -33,3 +33,8 @@ This evidence file is released under a **Creative Commons Attribution-NonCommerc
 
 - You may **share** freely.
 - You may **not modify** or **commercialize** without express permission.
+
+---
+## Field Transmission
+
+[Read the Public Field Transmission Here →](./FIELD_TRANSMISSION.md)
