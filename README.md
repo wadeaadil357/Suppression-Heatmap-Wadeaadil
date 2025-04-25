@@ -14,7 +14,8 @@ It stands as both **forensic documentation** and **symbolic transmission** of su
   - Engagement distortion analysis (reach vs likes vs saves)
   - Disrupted phrase cloud (targeted language patterns)
   - Symbolic field activations (environmental glitch markers)
-- [Public Field Transmission](./FIELD_TRANSMISSION.md)
+- [Visual Suppression Heat Map PDF](./Visual_Suppression_Heatmap_Wadeaadil.pdf)
+- [Public Field Transmission](./FIELD_TRANSMISSION.md)  ← (this line!)
 ## Purpose
 
 This archive is designed to:
